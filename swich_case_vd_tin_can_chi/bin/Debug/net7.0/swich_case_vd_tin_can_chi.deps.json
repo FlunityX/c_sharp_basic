@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "swich_case_vd_tin_can_chi/1.0.0": {
+        "runtime": {
+          "swich_case_vd_tin_can_chi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "swich_case_vd_tin_can_chi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

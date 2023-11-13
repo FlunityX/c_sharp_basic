@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\bin\Debug\net7.0\swich_case_vd_tin_can_chi.exe
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\bin\Debug\net7.0\swich_case_vd_tin_can_chi.deps.json
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\bin\Debug\net7.0\swich_case_vd_tin_can_chi.runtimeconfig.json
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\bin\Debug\net7.0\swich_case_vd_tin_can_chi.dll
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\bin\Debug\net7.0\swich_case_vd_tin_can_chi.pdb
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\obj\Debug\net7.0\swich_case_vd_tin_can_chi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\obj\Debug\net7.0\swich_case_vd_tin_can_chi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\obj\Debug\net7.0\swich_case_vd_tin_can_chi.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\obj\Debug\net7.0\swich_case_vd_tin_can_chi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\obj\Debug\net7.0\swich_case_vd_tin_can_chi.dll
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\obj\Debug\net7.0\refint\swich_case_vd_tin_can_chi.dll
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\obj\Debug\net7.0\swich_case_vd_tin_can_chi.pdb
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\obj\Debug\net7.0\swich_case_vd_tin_can_chi.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\swich_case_vd_tin_can_chi\obj\Debug\net7.0\ref\swich_case_vd_tin_can_chi.dll

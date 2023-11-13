@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\ki_thuat_return_first\bin\Debug\net7.0\ki_thuat_return_first.exe
+C:\Users\Administrator\Downloads\ki_thuat_return_first\bin\Debug\net7.0\ki_thuat_return_first.deps.json
+C:\Users\Administrator\Downloads\ki_thuat_return_first\bin\Debug\net7.0\ki_thuat_return_first.runtimeconfig.json
+C:\Users\Administrator\Downloads\ki_thuat_return_first\bin\Debug\net7.0\ki_thuat_return_first.dll
+C:\Users\Administrator\Downloads\ki_thuat_return_first\bin\Debug\net7.0\ki_thuat_return_first.pdb
+C:\Users\Administrator\Downloads\ki_thuat_return_first\obj\Debug\net7.0\ki_thuat_return_first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\ki_thuat_return_first\obj\Debug\net7.0\ki_thuat_return_first.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\ki_thuat_return_first\obj\Debug\net7.0\ki_thuat_return_first.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\ki_thuat_return_first\obj\Debug\net7.0\ki_thuat_return_first.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ki_thuat_return_first\obj\Debug\net7.0\ki_thuat_return_first.dll
+C:\Users\Administrator\Downloads\ki_thuat_return_first\obj\Debug\net7.0\refint\ki_thuat_return_first.dll
+C:\Users\Administrator\Downloads\ki_thuat_return_first\obj\Debug\net7.0\ki_thuat_return_first.pdb
+C:\Users\Administrator\Downloads\ki_thuat_return_first\obj\Debug\net7.0\ki_thuat_return_first.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\ki_thuat_return_first\obj\Debug\net7.0\ref\ki_thuat_return_first.dll
