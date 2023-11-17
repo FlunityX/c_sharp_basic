@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\bin\Debug\net7.0\toan_tu_3_ngoi.exe
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\bin\Debug\net7.0\toan_tu_3_ngoi.deps.json
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\bin\Debug\net7.0\toan_tu_3_ngoi.runtimeconfig.json
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\bin\Debug\net7.0\toan_tu_3_ngoi.dll
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\bin\Debug\net7.0\toan_tu_3_ngoi.pdb
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\obj\Debug\net7.0\toan_tu_3_ngoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\obj\Debug\net7.0\toan_tu_3_ngoi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\obj\Debug\net7.0\toan_tu_3_ngoi.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\obj\Debug\net7.0\toan_tu_3_ngoi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\obj\Debug\net7.0\toan_tu_3_ngoi.dll
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\obj\Debug\net7.0\refint\toan_tu_3_ngoi.dll
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\obj\Debug\net7.0\toan_tu_3_ngoi.pdb
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\obj\Debug\net7.0\toan_tu_3_ngoi.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\toan_tu_3_ngoi\obj\Debug\net7.0\ref\toan_tu_3_ngoi.dll
