@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\tong 1 day so\bin\Debug\net7.0\tong 1 day so.exe
+C:\Users\Administrator\Downloads\tong 1 day so\bin\Debug\net7.0\tong 1 day so.deps.json
+C:\Users\Administrator\Downloads\tong 1 day so\bin\Debug\net7.0\tong 1 day so.runtimeconfig.json
+C:\Users\Administrator\Downloads\tong 1 day so\bin\Debug\net7.0\tong 1 day so.dll
+C:\Users\Administrator\Downloads\tong 1 day so\bin\Debug\net7.0\tong 1 day so.pdb
+C:\Users\Administrator\Downloads\tong 1 day so\obj\Debug\net7.0\tong 1 day so.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\tong 1 day so\obj\Debug\net7.0\tong 1 day so.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\tong 1 day so\obj\Debug\net7.0\tong 1 day so.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\tong 1 day so\obj\Debug\net7.0\tong 1 day so.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\tong 1 day so\obj\Debug\net7.0\tong 1 day so.dll
+C:\Users\Administrator\Downloads\tong 1 day so\obj\Debug\net7.0\refint\tong 1 day so.dll
+C:\Users\Administrator\Downloads\tong 1 day so\obj\Debug\net7.0\tong 1 day so.pdb
+C:\Users\Administrator\Downloads\tong 1 day so\obj\Debug\net7.0\tong 1 day so.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\tong 1 day so\obj\Debug\net7.0\ref\tong 1 day so.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tong 1 day so/1.0.0": {
+        "runtime": {
+          "tong 1 day so.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tong 1 day so/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
