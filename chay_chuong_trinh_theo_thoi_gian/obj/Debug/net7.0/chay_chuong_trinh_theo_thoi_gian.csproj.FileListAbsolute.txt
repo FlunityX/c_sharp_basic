@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\bin\Debug\net7.0\chay_chuong_trinh_theo_thoi_gian.exe
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\bin\Debug\net7.0\chay_chuong_trinh_theo_thoi_gian.deps.json
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\bin\Debug\net7.0\chay_chuong_trinh_theo_thoi_gian.runtimeconfig.json
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\bin\Debug\net7.0\chay_chuong_trinh_theo_thoi_gian.dll
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\bin\Debug\net7.0\chay_chuong_trinh_theo_thoi_gian.pdb
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\obj\Debug\net7.0\chay_chuong_trinh_theo_thoi_gian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\obj\Debug\net7.0\chay_chuong_trinh_theo_thoi_gian.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\obj\Debug\net7.0\chay_chuong_trinh_theo_thoi_gian.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\obj\Debug\net7.0\chay_chuong_trinh_theo_thoi_gian.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\obj\Debug\net7.0\chay_chuong_trinh_theo_thoi_gian.dll
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\obj\Debug\net7.0\refint\chay_chuong_trinh_theo_thoi_gian.dll
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\obj\Debug\net7.0\chay_chuong_trinh_theo_thoi_gian.pdb
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\obj\Debug\net7.0\chay_chuong_trinh_theo_thoi_gian.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\chay_chuong_trinh_theo_thoi_gian\obj\Debug\net7.0\ref\chay_chuong_trinh_theo_thoi_gian.dll
