@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\bin\Debug\net7.0\phan_loai_so_nguyen_to_ va_hop_so.exe
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\bin\Debug\net7.0\phan_loai_so_nguyen_to_ va_hop_so.deps.json
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\bin\Debug\net7.0\phan_loai_so_nguyen_to_ va_hop_so.runtimeconfig.json
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\bin\Debug\net7.0\phan_loai_so_nguyen_to_ va_hop_so.dll
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\bin\Debug\net7.0\phan_loai_so_nguyen_to_ va_hop_so.pdb
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\obj\Debug\net7.0\phan_loai_so_nguyen_to_ va_hop_so.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\obj\Debug\net7.0\phan_loai_so_nguyen_to_ va_hop_so.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\obj\Debug\net7.0\phan_loai_so_nguyen_to_ va_hop_so.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\obj\Debug\net7.0\phan_loai_so_nguyen_to_ va_hop_so.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\obj\Debug\net7.0\phan_loai_so_nguyen_to_ va_hop_so.dll
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\obj\Debug\net7.0\refint\phan_loai_so_nguyen_to_ va_hop_so.dll
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\obj\Debug\net7.0\phan_loai_so_nguyen_to_ va_hop_so.pdb
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\obj\Debug\net7.0\phan_loai_so_nguyen_to_ va_hop_so.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\phan_loai_so_nguyen_to_ va_hop_so\obj\Debug\net7.0\ref\phan_loai_so_nguyen_to_ va_hop_so.dll

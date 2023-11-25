@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "phan_loai_so_nguyen_to_ va_hop_so/1.0.0": {
+        "runtime": {
+          "phan_loai_so_nguyen_to_ va_hop_so.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "phan_loai_so_nguyen_to_ va_hop_so/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
