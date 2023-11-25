@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\bin\Debug\net7.0\date_time_and_date_time_off_set.exe
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\bin\Debug\net7.0\date_time_and_date_time_off_set.deps.json
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\bin\Debug\net7.0\date_time_and_date_time_off_set.runtimeconfig.json
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\bin\Debug\net7.0\date_time_and_date_time_off_set.dll
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\bin\Debug\net7.0\date_time_and_date_time_off_set.pdb
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\obj\Debug\net7.0\date_time_and_date_time_off_set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\obj\Debug\net7.0\date_time_and_date_time_off_set.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\obj\Debug\net7.0\date_time_and_date_time_off_set.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\obj\Debug\net7.0\date_time_and_date_time_off_set.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\obj\Debug\net7.0\date_time_and_date_time_off_set.dll
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\obj\Debug\net7.0\refint\date_time_and_date_time_off_set.dll
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\obj\Debug\net7.0\date_time_and_date_time_off_set.pdb
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\obj\Debug\net7.0\date_time_and_date_time_off_set.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\date_time_and_date_time_off_set\obj\Debug\net7.0\ref\date_time_and_date_time_off_set.dll
