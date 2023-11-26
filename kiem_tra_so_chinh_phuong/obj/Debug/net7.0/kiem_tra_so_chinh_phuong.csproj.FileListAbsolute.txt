@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\bin\Debug\net7.0\kiem_tra_so_chinh_phuong.exe
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\bin\Debug\net7.0\kiem_tra_so_chinh_phuong.deps.json
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\bin\Debug\net7.0\kiem_tra_so_chinh_phuong.runtimeconfig.json
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\bin\Debug\net7.0\kiem_tra_so_chinh_phuong.dll
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\bin\Debug\net7.0\kiem_tra_so_chinh_phuong.pdb
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\obj\Debug\net7.0\kiem_tra_so_chinh_phuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\obj\Debug\net7.0\kiem_tra_so_chinh_phuong.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\obj\Debug\net7.0\kiem_tra_so_chinh_phuong.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\obj\Debug\net7.0\kiem_tra_so_chinh_phuong.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\obj\Debug\net7.0\kiem_tra_so_chinh_phuong.dll
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\obj\Debug\net7.0\refint\kiem_tra_so_chinh_phuong.dll
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\obj\Debug\net7.0\kiem_tra_so_chinh_phuong.pdb
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\obj\Debug\net7.0\kiem_tra_so_chinh_phuong.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\kiem_tra_so_chinh_phuong\obj\Debug\net7.0\ref\kiem_tra_so_chinh_phuong.dll
