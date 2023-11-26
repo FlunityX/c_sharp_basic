@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\bin\Debug\net7.0\uoc_chung_lon_nhat_ cua_2 so.exe
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\bin\Debug\net7.0\uoc_chung_lon_nhat_ cua_2 so.deps.json
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\bin\Debug\net7.0\uoc_chung_lon_nhat_ cua_2 so.runtimeconfig.json
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\bin\Debug\net7.0\uoc_chung_lon_nhat_ cua_2 so.dll
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\bin\Debug\net7.0\uoc_chung_lon_nhat_ cua_2 so.pdb
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\obj\Debug\net7.0\uoc_chung_lon_nhat_ cua_2 so.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\obj\Debug\net7.0\uoc_chung_lon_nhat_ cua_2 so.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\obj\Debug\net7.0\uoc_chung_lon_nhat_ cua_2 so.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\obj\Debug\net7.0\uoc_chung_lon_nhat_ cua_2 so.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\obj\Debug\net7.0\uoc_chung_lon_nhat_ cua_2 so.dll
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\obj\Debug\net7.0\refint\uoc_chung_lon_nhat_ cua_2 so.dll
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\obj\Debug\net7.0\uoc_chung_lon_nhat_ cua_2 so.pdb
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\obj\Debug\net7.0\uoc_chung_lon_nhat_ cua_2 so.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\uoc_chung_lon_nhat_ cua_2 so\obj\Debug\net7.0\ref\uoc_chung_lon_nhat_ cua_2 so.dll
