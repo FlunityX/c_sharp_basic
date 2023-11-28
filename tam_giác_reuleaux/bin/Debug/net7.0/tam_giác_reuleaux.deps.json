@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tam_giác_reuleaux/1.0.0": {
+        "runtime": {
+          "tam_giác_reuleaux.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tam_giác_reuleaux/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

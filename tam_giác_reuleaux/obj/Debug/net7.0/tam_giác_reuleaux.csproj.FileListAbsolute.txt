@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\obj\Debug\net7.0\tam_giác_reuleaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\obj\Debug\net7.0\tam_giác_reuleaux.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\obj\Debug\net7.0\tam_giác_reuleaux.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\obj\Debug\net7.0\tam_giác_reuleaux.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\bin\Debug\net7.0\tam_giác_reuleaux.exe
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\bin\Debug\net7.0\tam_giác_reuleaux.deps.json
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\bin\Debug\net7.0\tam_giác_reuleaux.runtimeconfig.json
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\bin\Debug\net7.0\tam_giác_reuleaux.dll
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\bin\Debug\net7.0\tam_giác_reuleaux.pdb
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\obj\Debug\net7.0\tam_giác_reuleaux.dll
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\obj\Debug\net7.0\refint\tam_giác_reuleaux.dll
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\obj\Debug\net7.0\tam_giác_reuleaux.pdb
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\obj\Debug\net7.0\tam_giác_reuleaux.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\tam_giác_reuleaux\obj\Debug\net7.0\ref\tam_giác_reuleaux.dll
