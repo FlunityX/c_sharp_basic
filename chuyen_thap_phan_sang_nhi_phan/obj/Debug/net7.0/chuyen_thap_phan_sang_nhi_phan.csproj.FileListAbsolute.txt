@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\bin\Debug\net7.0\chuyen_thap_phan_sang_nhi_phan.exe
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\bin\Debug\net7.0\chuyen_thap_phan_sang_nhi_phan.deps.json
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\bin\Debug\net7.0\chuyen_thap_phan_sang_nhi_phan.runtimeconfig.json
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\bin\Debug\net7.0\chuyen_thap_phan_sang_nhi_phan.dll
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\bin\Debug\net7.0\chuyen_thap_phan_sang_nhi_phan.pdb
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\obj\Debug\net7.0\chuyen_thap_phan_sang_nhi_phan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\obj\Debug\net7.0\chuyen_thap_phan_sang_nhi_phan.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\obj\Debug\net7.0\chuyen_thap_phan_sang_nhi_phan.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\obj\Debug\net7.0\chuyen_thap_phan_sang_nhi_phan.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\obj\Debug\net7.0\chuyen_thap_phan_sang_nhi_phan.dll
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\obj\Debug\net7.0\refint\chuyen_thap_phan_sang_nhi_phan.dll
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\obj\Debug\net7.0\chuyen_thap_phan_sang_nhi_phan.pdb
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\obj\Debug\net7.0\chuyen_thap_phan_sang_nhi_phan.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\chuyen_thap_phan_sang_nhi_phan\obj\Debug\net7.0\ref\chuyen_thap_phan_sang_nhi_phan.dll
