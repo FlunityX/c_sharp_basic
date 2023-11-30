@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tiền_xủ_lý_debug_line/1.0.0": {
+        "runtime": {
+          "tiền_xủ_lý_debug_line.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tiền_xủ_lý_debug_line/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

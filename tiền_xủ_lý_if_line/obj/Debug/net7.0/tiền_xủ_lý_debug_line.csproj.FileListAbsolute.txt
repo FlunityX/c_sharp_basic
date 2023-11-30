@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\bin\Debug\net7.0\tiền_xủ_lý_debug_line.exe
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\bin\Debug\net7.0\tiền_xủ_lý_debug_line.deps.json
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\bin\Debug\net7.0\tiền_xủ_lý_debug_line.runtimeconfig.json
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\bin\Debug\net7.0\tiền_xủ_lý_debug_line.dll
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\bin\Debug\net7.0\tiền_xủ_lý_debug_line.pdb
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\obj\Debug\net7.0\tiền_xủ_lý_debug_line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\obj\Debug\net7.0\tiền_xủ_lý_debug_line.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\obj\Debug\net7.0\tiền_xủ_lý_debug_line.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\obj\Debug\net7.0\tiền_xủ_lý_debug_line.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\obj\Debug\net7.0\tiền_xủ_lý_debug_line.dll
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\obj\Debug\net7.0\refint\tiền_xủ_lý_debug_line.dll
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\obj\Debug\net7.0\tiền_xủ_lý_debug_line.pdb
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\obj\Debug\net7.0\tiền_xủ_lý_debug_line.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\tiền_xủ_lý_debug_line\obj\Debug\net7.0\ref\tiền_xủ_lý_debug_line.dll
