@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\obj\Debug\net7.0\xử lý ngoại lệ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\obj\Debug\net7.0\xử lý ngoại lệ.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\obj\Debug\net7.0\xử lý ngoại lệ.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\obj\Debug\net7.0\xử lý ngoại lệ.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\bin\Debug\net7.0\xử lý ngoại lệ.exe
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\bin\Debug\net7.0\xử lý ngoại lệ.deps.json
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\bin\Debug\net7.0\xử lý ngoại lệ.runtimeconfig.json
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\bin\Debug\net7.0\xử lý ngoại lệ.dll
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\bin\Debug\net7.0\xử lý ngoại lệ.pdb
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\obj\Debug\net7.0\xử lý ngoại lệ.dll
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\obj\Debug\net7.0\refint\xử lý ngoại lệ.dll
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\obj\Debug\net7.0\xử lý ngoại lệ.pdb
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\obj\Debug\net7.0\xử lý ngoại lệ.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\xử lý ngoại lệ\obj\Debug\net7.0\ref\xử lý ngoại lệ.dll
