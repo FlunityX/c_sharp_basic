@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\region_and_endregion\obj\Debug\net7.0\region_and_endregion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\region_and_endregion\obj\Debug\net7.0\region_and_endregion.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\region_and_endregion\obj\Debug\net7.0\region_and_endregion.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\region_and_endregion\obj\Debug\net7.0\region_and_endregion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\region_and_endregion\bin\Debug\net7.0\region_and_endregion.exe
+C:\Users\Administrator\Downloads\region_and_endregion\bin\Debug\net7.0\region_and_endregion.deps.json
+C:\Users\Administrator\Downloads\region_and_endregion\bin\Debug\net7.0\region_and_endregion.runtimeconfig.json
+C:\Users\Administrator\Downloads\region_and_endregion\bin\Debug\net7.0\region_and_endregion.dll
+C:\Users\Administrator\Downloads\region_and_endregion\bin\Debug\net7.0\region_and_endregion.pdb
+C:\Users\Administrator\Downloads\region_and_endregion\obj\Debug\net7.0\region_and_endregion.dll
+C:\Users\Administrator\Downloads\region_and_endregion\obj\Debug\net7.0\refint\region_and_endregion.dll
+C:\Users\Administrator\Downloads\region_and_endregion\obj\Debug\net7.0\region_and_endregion.pdb
+C:\Users\Administrator\Downloads\region_and_endregion\obj\Debug\net7.0\region_and_endregion.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\region_and_endregion\obj\Debug\net7.0\ref\region_and_endregion.dll
