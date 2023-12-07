@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "đổi màu chữ và đổi màu nền _ chương trình/1.0.0": {
+        "runtime": {
+          "đổi màu chữ và đổi màu nền _ chương trình.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "đổi màu chữ và đổi màu nền _ chương trình/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

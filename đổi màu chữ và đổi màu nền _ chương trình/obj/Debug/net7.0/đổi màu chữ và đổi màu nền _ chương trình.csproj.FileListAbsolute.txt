@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\bin\Debug\net7.0\đổi màu chữ và đổi màu nền _ chương trình.exe
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\bin\Debug\net7.0\đổi màu chữ và đổi màu nền _ chương trình.deps.json
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\bin\Debug\net7.0\đổi màu chữ và đổi màu nền _ chương trình.runtimeconfig.json
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\bin\Debug\net7.0\đổi màu chữ và đổi màu nền _ chương trình.dll
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\bin\Debug\net7.0\đổi màu chữ và đổi màu nền _ chương trình.pdb
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\obj\Debug\net7.0\đổi màu chữ và đổi màu nền _ chương trình.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\obj\Debug\net7.0\đổi màu chữ và đổi màu nền _ chương trình.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\obj\Debug\net7.0\đổi màu chữ và đổi màu nền _ chương trình.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\obj\Debug\net7.0\đổi màu chữ và đổi màu nền _ chương trình.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\obj\Debug\net7.0\đổi màu chữ và đổi màu nền _ chương trình.dll
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\obj\Debug\net7.0\refint\đổi màu chữ và đổi màu nền _ chương trình.dll
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\obj\Debug\net7.0\đổi màu chữ và đổi màu nền _ chương trình.pdb
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\obj\Debug\net7.0\đổi màu chữ và đổi màu nền _ chương trình.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\đổi màu chữ và đổi màu nền _ chương trình\obj\Debug\net7.0\ref\đổi màu chữ và đổi màu nền _ chương trình.dll

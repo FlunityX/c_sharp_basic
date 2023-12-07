@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "đổi màu chữ và đổi màu nền _ chương trình", "đổi màu chữ và đổi màu nền _ chương trình.csproj", "{2F074CDF-AEE4-4DCB-AC88-46978C075CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "số_kí_tự_trong_chuỗi", "..\số_kí_tự_trong_chuỗi\số_kí_tự_trong_chuỗi.csproj", "{B4B4F7DE-5DD8-4518-AFC9-1FB85D9503C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F074CDF-AEE4-4DCB-AC88-46978C075CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F074CDF-AEE4-4DCB-AC88-46978C075CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F074CDF-AEE4-4DCB-AC88-46978C075CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F074CDF-AEE4-4DCB-AC88-46978C075CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B4F7DE-5DD8-4518-AFC9-1FB85D9503C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B4F7DE-5DD8-4518-AFC9-1FB85D9503C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B4F7DE-5DD8-4518-AFC9-1FB85D9503C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B4F7DE-5DD8-4518-AFC9-1FB85D9503C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA488EA-43C5-4B21-A4F7-C07C474DA2D1}
+	EndGlobalSection
+EndGlobal
