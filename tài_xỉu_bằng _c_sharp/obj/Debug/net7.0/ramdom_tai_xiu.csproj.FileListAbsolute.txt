@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\bin\Debug\net7.0\ramdom_tai_xiu.exe
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\bin\Debug\net7.0\ramdom_tai_xiu.deps.json
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\bin\Debug\net7.0\ramdom_tai_xiu.runtimeconfig.json
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\bin\Debug\net7.0\ramdom_tai_xiu.dll
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\bin\Debug\net7.0\ramdom_tai_xiu.pdb
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\obj\Debug\net7.0\ramdom_tai_xiu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\obj\Debug\net7.0\ramdom_tai_xiu.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\obj\Debug\net7.0\ramdom_tai_xiu.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\obj\Debug\net7.0\ramdom_tai_xiu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\obj\Debug\net7.0\ramdom_tai_xiu.dll
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\obj\Debug\net7.0\refint\ramdom_tai_xiu.dll
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\obj\Debug\net7.0\ramdom_tai_xiu.pdb
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\obj\Debug\net7.0\ramdom_tai_xiu.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\ramdom_tai_xiu\obj\Debug\net7.0\ref\ramdom_tai_xiu.dll
