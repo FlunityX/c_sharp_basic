@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\iroha_và_haiku\bin\Debug\iroha_và_haiku.exe.config
+C:\Users\Administrator\source\repos\iroha_và_haiku\bin\Debug\iroha_và_haiku.exe
+C:\Users\Administrator\source\repos\iroha_và_haiku\bin\Debug\iroha_và_haiku.pdb
+C:\Users\Administrator\source\repos\iroha_và_haiku\obj\Debug\iroha_và_haiku.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\iroha_và_haiku\obj\Debug\iroha_và_haiku.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\iroha_và_haiku\obj\Debug\iroha_và_haiku.exe
+C:\Users\Administrator\source\repos\iroha_và_haiku\obj\Debug\iroha_và_haiku.pdb
