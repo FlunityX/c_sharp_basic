@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\tính_hàm_bậc_2\bin\Debug\tính_hàm_bậc_2.exe.config
+C:\Users\Administrator\source\repos\tính_hàm_bậc_2\bin\Debug\tính_hàm_bậc_2.exe
+C:\Users\Administrator\source\repos\tính_hàm_bậc_2\bin\Debug\tính_hàm_bậc_2.pdb
+C:\Users\Administrator\source\repos\tính_hàm_bậc_2\obj\Debug\tính_hàm_bậc_2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\tính_hàm_bậc_2\obj\Debug\tính_hàm_bậc_2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\tính_hàm_bậc_2\obj\Debug\tính_hàm_bậc_2.exe
+C:\Users\Administrator\source\repos\tính_hàm_bậc_2\obj\Debug\tính_hàm_bậc_2.pdb
