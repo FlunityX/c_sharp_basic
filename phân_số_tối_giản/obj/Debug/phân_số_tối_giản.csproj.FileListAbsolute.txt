@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\phân_số_tối_giản\bin\Debug\phân_số_tối_giản.exe.config
+C:\Users\Administrator\source\repos\phân_số_tối_giản\bin\Debug\phân_số_tối_giản.exe
+C:\Users\Administrator\source\repos\phân_số_tối_giản\bin\Debug\phân_số_tối_giản.pdb
+C:\Users\Administrator\source\repos\phân_số_tối_giản\obj\Debug\phân_số_tối_giản.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\phân_số_tối_giản\obj\Debug\phân_số_tối_giản.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\phân_số_tối_giản\obj\Debug\phân_số_tối_giản.exe
+C:\Users\Administrator\source\repos\phân_số_tối_giản\obj\Debug\phân_số_tối_giản.pdb
