@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\try_pasre\bin\Debug\net7.0\try_pasre.exe
+C:\Users\Administrator\source\repos\try_pasre\bin\Debug\net7.0\try_pasre.deps.json
+C:\Users\Administrator\source\repos\try_pasre\bin\Debug\net7.0\try_pasre.runtimeconfig.json
+C:\Users\Administrator\source\repos\try_pasre\bin\Debug\net7.0\try_pasre.dll
+C:\Users\Administrator\source\repos\try_pasre\bin\Debug\net7.0\try_pasre.pdb
+C:\Users\Administrator\source\repos\try_pasre\obj\Debug\net7.0\try_pasre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\try_pasre\obj\Debug\net7.0\try_pasre.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\try_pasre\obj\Debug\net7.0\try_pasre.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\try_pasre\obj\Debug\net7.0\try_pasre.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\try_pasre\obj\Debug\net7.0\try_pasre.dll
+C:\Users\Administrator\source\repos\try_pasre\obj\Debug\net7.0\refint\try_pasre.dll
+C:\Users\Administrator\source\repos\try_pasre\obj\Debug\net7.0\try_pasre.pdb
+C:\Users\Administrator\source\repos\try_pasre\obj\Debug\net7.0\try_pasre.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\try_pasre\obj\Debug\net7.0\ref\try_pasre.dll
