@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\từ_khoá_ref\bin\Debug\net7.0\từ_khoá_ref.exe
+C:\Users\Administrator\source\repos\từ_khoá_ref\bin\Debug\net7.0\từ_khoá_ref.deps.json
+C:\Users\Administrator\source\repos\từ_khoá_ref\bin\Debug\net7.0\từ_khoá_ref.runtimeconfig.json
+C:\Users\Administrator\source\repos\từ_khoá_ref\bin\Debug\net7.0\từ_khoá_ref.dll
+C:\Users\Administrator\source\repos\từ_khoá_ref\bin\Debug\net7.0\từ_khoá_ref.pdb
+C:\Users\Administrator\source\repos\từ_khoá_ref\obj\Debug\net7.0\từ_khoá_ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\từ_khoá_ref\obj\Debug\net7.0\từ_khoá_ref.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\từ_khoá_ref\obj\Debug\net7.0\từ_khoá_ref.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\từ_khoá_ref\obj\Debug\net7.0\từ_khoá_ref.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\từ_khoá_ref\obj\Debug\net7.0\từ_khoá_ref.dll
+C:\Users\Administrator\source\repos\từ_khoá_ref\obj\Debug\net7.0\refint\từ_khoá_ref.dll
+C:\Users\Administrator\source\repos\từ_khoá_ref\obj\Debug\net7.0\từ_khoá_ref.pdb
+C:\Users\Administrator\source\repos\từ_khoá_ref\obj\Debug\net7.0\từ_khoá_ref.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\từ_khoá_ref\obj\Debug\net7.0\ref\từ_khoá_ref.dll

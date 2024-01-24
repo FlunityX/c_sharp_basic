@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "từ_khoá_ref/1.0.0": {
+        "runtime": {
+          "từ_khoá_ref.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "từ_khoá_ref/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
