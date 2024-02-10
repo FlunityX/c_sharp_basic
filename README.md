@@ -34,8 +34,6 @@ The examples and exercises in this repository cover the following topics:
 - Arrays and Collections
 - Functions and Methods
 - Classes and Objects
-- Error Handling (Exception Handling)
-- File I/O
 
 ## Examples
 
