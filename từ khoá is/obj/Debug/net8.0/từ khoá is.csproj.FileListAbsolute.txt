@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\từ khoá is\bin\Debug\net8.0\từ khoá is.exe
+C:\Users\Administrator\source\repos\từ khoá is\bin\Debug\net8.0\từ khoá is.deps.json
+C:\Users\Administrator\source\repos\từ khoá is\bin\Debug\net8.0\từ khoá is.runtimeconfig.json
+C:\Users\Administrator\source\repos\từ khoá is\bin\Debug\net8.0\từ khoá is.dll
+C:\Users\Administrator\source\repos\từ khoá is\bin\Debug\net8.0\từ khoá is.pdb
+C:\Users\Administrator\source\repos\từ khoá is\obj\Debug\net8.0\từ khoá is.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\từ khoá is\obj\Debug\net8.0\từ khoá is.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\từ khoá is\obj\Debug\net8.0\từ khoá is.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\từ khoá is\obj\Debug\net8.0\từ khoá is.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\từ khoá is\obj\Debug\net8.0\từ khoá is.dll
+C:\Users\Administrator\source\repos\từ khoá is\obj\Debug\net8.0\refint\từ khoá is.dll
+C:\Users\Administrator\source\repos\từ khoá is\obj\Debug\net8.0\từ khoá is.pdb
+C:\Users\Administrator\source\repos\từ khoá is\obj\Debug\net8.0\từ khoá is.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\từ khoá is\obj\Debug\net8.0\ref\từ khoá is.dll
