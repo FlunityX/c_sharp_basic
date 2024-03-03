@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\thamsomacdinh\bin\Debug\net8.0\thamsomacdinh.exe
+C:\Users\Administrator\source\repos\thamsomacdinh\bin\Debug\net8.0\thamsomacdinh.deps.json
+C:\Users\Administrator\source\repos\thamsomacdinh\bin\Debug\net8.0\thamsomacdinh.runtimeconfig.json
+C:\Users\Administrator\source\repos\thamsomacdinh\bin\Debug\net8.0\thamsomacdinh.dll
+C:\Users\Administrator\source\repos\thamsomacdinh\bin\Debug\net8.0\thamsomacdinh.pdb
+C:\Users\Administrator\source\repos\thamsomacdinh\obj\Debug\net8.0\thamsomacdinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\thamsomacdinh\obj\Debug\net8.0\thamsomacdinh.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\thamsomacdinh\obj\Debug\net8.0\thamsomacdinh.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\thamsomacdinh\obj\Debug\net8.0\thamsomacdinh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\thamsomacdinh\obj\Debug\net8.0\thamsomacdinh.dll
+C:\Users\Administrator\source\repos\thamsomacdinh\obj\Debug\net8.0\refint\thamsomacdinh.dll
+C:\Users\Administrator\source\repos\thamsomacdinh\obj\Debug\net8.0\thamsomacdinh.pdb
+C:\Users\Administrator\source\repos\thamsomacdinh\obj\Debug\net8.0\thamsomacdinh.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\thamsomacdinh\obj\Debug\net8.0\ref\thamsomacdinh.dll
