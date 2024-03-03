@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "các_cách_ghi-chuỗi c#/1.0.0": {
+        "runtime": {
+          "các_cách_ghi-chuỗi c#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "các_cách_ghi-chuỗi c#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

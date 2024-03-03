@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\bin\Debug\net8.0\các_cách_ghi-chuỗi c#.exe
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\bin\Debug\net8.0\các_cách_ghi-chuỗi c#.deps.json
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\bin\Debug\net8.0\các_cách_ghi-chuỗi c#.runtimeconfig.json
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\bin\Debug\net8.0\các_cách_ghi-chuỗi c#.dll
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\bin\Debug\net8.0\các_cách_ghi-chuỗi c#.pdb
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\obj\Debug\net8.0\các_cách_ghi-chuỗi c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\obj\Debug\net8.0\các_cách_ghi-chuỗi c#.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\obj\Debug\net8.0\các_cách_ghi-chuỗi c#.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\obj\Debug\net8.0\các_cách_ghi-chuỗi c#.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\obj\Debug\net8.0\các_cách_ghi-chuỗi c#.dll
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\obj\Debug\net8.0\refint\các_cách_ghi-chuỗi c#.dll
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\obj\Debug\net8.0\các_cách_ghi-chuỗi c#.pdb
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\obj\Debug\net8.0\các_cách_ghi-chuỗi c#.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\các_cách_ghi-chuỗi c#\obj\Debug\net8.0\ref\các_cách_ghi-chuỗi c#.dll
