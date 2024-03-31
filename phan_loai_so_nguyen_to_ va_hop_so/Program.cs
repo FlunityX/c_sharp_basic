@@ -13,7 +13,7 @@
             {
                 Console.WriteLine(" so ko hop le !");
             }
-            for(int i = 2; i < can_n; i++) {
+            for(int i = 2; i <= can_n; i++) {
                 if (n % i == 0)
                 {
                     isprime = false;
